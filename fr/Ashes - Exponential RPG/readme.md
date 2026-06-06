@@ -34,6 +34,6 @@ Bienvenue dans le dépôt **Ashes - Exponential RPG Guides** ! Ce dépôt contie
 
 ---
 ## 📖 Comment utiliser ces guides ?
-1. **Lisez le [Guide #1](guide-1.md)** pour préparer votre première partie et battre le premier boss.
-2. **Suivez le [Guide #2](guide-2.md)** pour progresser vers des zones plus élevées et battre le troisième boss.
+1. **Lisez le [Guide Run #1](guide-1.md)** pour préparer votre première partie et battre le premier boss.
+2. **Suivez le [Guide Run #2](guide-2.md)** pour progresser vers des zones plus élevées et battre le troisième boss.
 
