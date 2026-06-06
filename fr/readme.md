@@ -10,8 +10,8 @@ Ce dépôt centralise les ressources et stratégies pour optimiser votre expéri
 
 | Jeu | Statut | Guides disponibles |
 |-----|--------|-------------------|
-| **Ashes - Exponential RPG** | ✅ Disponible | [🇫🇷 Français](Ashes%20-%20Exponential%20RPG/) |
-| *Autres jeux* | 🔄 À venir | Plus de guides seront ajoutés prochainement pour d'autres titres d'Atopia Studio. |
+| [**Ashes - Exponential RPG**](Ashes%20-%20Exponential%20RPG/) | ✅ Disponible |
+| *Autres jeux* | 🔄 À venir |
 
 ---
 
