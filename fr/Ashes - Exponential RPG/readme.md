@@ -9,8 +9,8 @@ Bienvenue dans le dépôt **Ashes - Exponential RPG Guides** ! Ce dépôt contie
 ## 📌 Table des matières
 | Guide | Objectif principal |
 |-------|---------------------|
-| [Guide #1](guide-1.md) | **Battre le premier boss** et préparer les bases pour les prochaines parties. |
-| [Guide #2](guide-2.md) | **Battre le troisième boss** et optimiser votre équipement pour des runs plus avancés. |
+| [Guide Run #1](guide-1.md) | **Battre le premier boss** et préparer les bases pour les prochaines parties. |
+| [Guide Run #2](guide-2.md) | **Battre le troisième boss** et optimiser votre équipement pour des runs plus avancés. |
 
 ---
 
