@@ -2,7 +2,7 @@
 
 Bienvenue dans le dépôt **Ashes - Exponential RPG Guides** ! Ce dépôt contient deux guides détaillés pour optimiser votre progression dans le jeu *Ashes - Exponential RPG*. Ces guides sont conçus pour vous aider à maximiser vos gains, vos équipements et vos statistiques, tout en battant les boss stratégiques.
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) : [*Atopia Studio*](https://discord.gg/jEZWNcjCn4) 
+**Discord** : [*Atopia Studio*](https://discord.gg/jEZWNcjCn4) 
 
 ---
 
