@@ -8,8 +8,8 @@ Ce dépôt centralise les ressources et stratégies pour optimiser votre expéri
 
 ## 🎮 Jeux disponibles
 
-| Jeu | Statut | Guides disponibles |
-|-----|--------|-------------------|
+| Jeu | Statut |
+|-----|--------|
 | [**Ashes - Exponential RPG**](Ashes%20-%20Exponential%20RPG/) | ✅ Disponible |
 | *Autres jeux* | 🔄 À venir |
 
