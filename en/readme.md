@@ -1,78 +1,22 @@
-\# 📚 Guides Atopia Studio
+# 📚 Guides Atopia Studio
 
+Welcome to the **guides** repository for **Atopia Studio** games!
 
+This repository centralizes resources and strategies to optimize your gaming experience across all titles developed by **Atopia Studio**. Whether you're looking for progression advice, boss-fighting tips, or equipment optimization, you'll find detailed and up-to-date guides here.
 
-Bienvenue dans ce dépôt de \*\*guides\*\* pour les jeux d'\*\*Atopia Studio\*\* !
+---
 
+## 🎮 Available Games
 
+| Game | Status |
+|------|--------|
+| [**Ashes - Exponential RPG**](Ashes%20-%20Exponential%20RPG/) | ✅ Available |
+| *Other games* | 🔄 Coming soon |
 
-Ce dépôt centralise les ressources et stratégies pour optimiser votre expérience de jeu dans les différents titres développés par \*\*Atopia Studio\*\*. Que vous soyez en quête de conseils pour progresser, d'astuces pour battre les boss ou d'optimisations d'équipement, vous trouverez ici des guides détaillés et mis à jour.
+---
+## 📢 Contribute
 
+Have suggestions, corrections, or strategies to share?
+Feel free to open an **issue** or **pull request** to improve these guides!
 
-
-\---
-
-
-
-\## 🎮 Jeux disponibles
-
-
-
-| Jeu | Statut |
-
-|-----|--------|
-
-| \[\*\*Ashes - Exponential RPG\*\*](Ashes%20-%20Exponential%20RPG/) | ✅ Disponible |
-
-| \*Autres jeux\* | 🔄 À venir |
-
-
-
-\---
-
-
-
-\## 📖 Guides Ashes - Exponential RPG
-
-
-
-Pour accéder aux guides détaillés d'\*\*Ashes - Exponential RPG\*\* :
-
-1\. Rendez-vous dans le dossier \[\*\*Ashes - Exponential RPG\*\*](Ashes%20-%20Exponential%20RPG/)
-
-2\. Vous y trouverez les versions française et anglaise des guides :
-
-&#x20;  - 🇫🇷 \[Guide #1 - Premier Boss](Ashes%20-%20Exponential%20RPG/guide1.md)
-
-&#x20;  - 🇬🇧 \[Guide #1 - First Boss](Ashes%20-%20Exponential%20RPG/guide1.md)
-
-&#x20;  - 🇫🇷 \[Guide #2 - Troisième Boss](Ashes%20-%20Exponential%20RPG/guide2.md)
-
-&#x20;  - 🇬🇧 \[Guide #2 - Third Boss](Ashes%20-%20Exponential%20RPG/guide2.md)
-
-
-
-\---
-
-
-
-\## 📢 Contribuer
-
-
-
-Vous avez des suggestions, des corrections ou des stratégies à partager ?
-
-N'hésitez pas à ouvrir une \*\*issue\*\* ou une \*\*pull request\*\* pour améliorer ces guides !
-
-
-
-🔗 \*\*Discord Atopia Studio\*\* : \[Rejoignez la communauté](https://discord.gg/jEZWNcjCn4)
-
-
-
-\---
-
-\*© 2024 Atopia Studio. Tous droits réservés.\*
-
-
-
+🔗 **Atopia Studio Discord**: [Join the community](https://discord.gg/jEZWNcjCn4)
