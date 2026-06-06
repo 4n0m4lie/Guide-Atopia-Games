@@ -7,10 +7,11 @@ Welcome to the **Ashes - Exponential RPG Guides** repository! This repository co
 ---
 
 ## 📌 Table of Contents
-| Guide | Main Objective |
-|-------|----------------|
-| [Guide #1](guide-1.md) | **Defeat the first boss** and lay the groundwork for future runs. |
-| [Guide #2](guide-2.md) | **Defeat the third boss** and optimize your equipment for more advanced runs. |
+
+| Guide | Main Objective | Author |
+|-------|----------------|--------|
+| [Guide #1](guide-1.md) | **Defeat the first boss** and lay the groundwork for future runs. | Rsquared7850 |
+| [Guide #2](guide-2.md) | **Defeat the third boss** and optimize your equipment for more advanced runs. | Rsquared7850 |
 
 ---
 
