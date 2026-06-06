@@ -2,15 +2,15 @@
 
 Bienvenue dans le dépôt **Ashes - Exponential RPG Guides** ! Ce dépôt contient deux guides détaillés pour optimiser votre progression dans le jeu *Ashes - Exponential RPG*. Ces guides sont conçus pour vous aider à maximiser vos gains, vos équipements et vos statistiques, tout en battant les boss stratégiques.
 
-**Auteur** : Rsquared7850 - **Discord** : [*Atopia Studio*](https://discord.gg/jEZWNcjCn4) 
+**Discord** : [*Atopia Studio*](https://discord.gg/jEZWNcjCn4) 
 
 ---
 
 ## 📌 Table des matières
-| Guide | Objectif principal |
-|-------|---------------------|
-| [Guide Run #1](guide-1.md) | **Battre le premier boss** et préparer les bases pour les prochaines parties. |
-| [Guide Run #2](guide-2.md) | **Battre le troisième boss** et optimiser votre équipement pour des runs plus avancés. |
+| Guide | Objectif principal | Auteur |
+|-------|---------------------|-------|
+| [Guide Run #1](guide-1.md) | **Battre le premier boss** et préparer les bases pour les prochaines parties. | Rsquared7850 |
+| [Guide Run #2](guide-2.md) | **Battre le troisième boss** et optimiser votre équipement pour des runs plus avancés. | Rsquared7850 |
 
 ---
 
