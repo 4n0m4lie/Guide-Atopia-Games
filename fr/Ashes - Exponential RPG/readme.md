@@ -7,10 +7,12 @@ Bienvenue dans le dépôt **Ashes - Exponential RPG Guides** ! Ce dépôt contie
 ---
 
 ## 📌 Table des matières
+
 | Guide | Objectif principal | Auteur |
-|-------|---------------------|-------|
-| [Guide Run #1](guide-1.md) | **Battre le premier boss** et préparer les bases pour les prochaines parties. | Rsquared7850 |
-| [Guide Run #2](guide-2.md) | **Battre le troisième boss** et optimiser votre équipement pour des runs plus avancés. | Rsquared7850 |
+|-------|--------------------|--------|
+| **[Guide Run #1](guide-1.md)** | **Battre le premier boss** et préparer les bases pour les prochaines parties. | Rsquared7850 |
+| **[Guide Run #2](guide-2.md)** | **Battre le troisième boss** et optimiser votre équipement pour des runs plus avancés. | Rsquared7850 |
+
 
 ---
 
